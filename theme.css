@@ -138,3 +138,7 @@ section.no-footer::after {
     flex-direction: column;
     justify-content: center;
 }
+
+span.caption {
+    font-size: 0.7rem;
+}
